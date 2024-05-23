@@ -1,6 +1,6 @@
 # Welcome Rui Matos
 
-I am from Web Development. I would like work team hight performance. But, now I work with freelancer.
+I am from Web Development. I love to work team hight performance. This moment, my job with freelancer.
 
 ## My Hark Skills:
 - Server Architecture in Linux (Centos OS, Ubuntu, Debian)
